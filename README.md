@@ -3,10 +3,10 @@ A light-weight, easy-to-edit CSS grid system.
 
 ![Scaffold Icon](Images/scaffold-icon.jpg?raw=true)
 
-Scaffold is a no-frills CSS grid system for rapid responsive website development.
+Scaffold is a no-frills CSS grid for rapid responsive website development and easy customization.
 
 
-## Easy &  Intuitive
+## Intuitive
 
 Like many grid systems works with 12 columns, all the required code is sensible and familiar.
 
@@ -18,7 +18,7 @@ Example:
                     <h1>Hello World</h1>
 
 
-## 
+## Responsive
 
 Control the display of elements with [size]-only classes.
 
@@ -31,11 +31,10 @@ Example:
 			 Ei debet congue mandamus quo. Eum natum legimus expetenda ne. Dolore gloriatur cu usu, eruditi sensibus inimicus et per. Ne vix incorrupte definitiones.
 		</div>
 
-sm md lg
+Sizes: sm md lg
 
 
 ## Mobile-First
-
 
 sm-only is visible by default. Columns are only rendered for larger screens after breakpoints.
 
@@ -46,6 +45,11 @@ Example:
 		<div class="col-sm-6">
 			Cu qui officiis mediocrem forensibus, cum sint purto scriptorem ad, has velit mucius iuvaret ex. Ex utinam homero vituperatoribus sea.
 		</div> 
+
+
+## Easy to build with
+
+Scaffold is essentially nothing but grid so you can easily add your own styles without unexpected behaviours. 
 
 
 ## License
