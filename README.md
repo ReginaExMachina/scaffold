@@ -8,10 +8,10 @@ Scaffold is a no-frills CSS grid for rapid responsive website development and ea
 
 ## About
 
-* Intuitive
-* Responsive
-* Mobile-First
-* Easy to Build With
+* [Intuitive](#intuitive)
+* [Responsive](#responsive)
+* [Mobile-First](#mobile-first)
+* [Easy to Build With](#easy-to-build-with)
 
 ---
 
@@ -27,7 +27,6 @@ Example:
 
                     <h1>Hello World</h1>
 ```
----
 
 ### Responsive
 
@@ -48,7 +47,6 @@ Example:
 
 Sizes notation is **sm md lg**.
 
----
 
 ### Mobile-First
 
@@ -63,7 +61,6 @@ Example:
 		Ex utinam homero vituperatoribus sea.
 	</div> 
 ```
----
 
 ### Easy to build with
 
@@ -72,4 +69,4 @@ Scaffold is essentially nothing but grid! No surprise behaviours, or changes to 
 
 ## License
 
-MIT
+MIT.
