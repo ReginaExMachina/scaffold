@@ -17,7 +17,7 @@ Scaffold is a no-frills CSS grid for rapid responsive website development and ea
 
 ### Intuitive
 
-Like many grid systems works with 12 columns, all the required code is sensible and familiar.
+Like many grid systems Scaffold works with 12 columns, all the required code is sensible and familiar.
 
 Example:
 ```html
