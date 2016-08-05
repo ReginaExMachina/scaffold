@@ -3,8 +3,13 @@ A light-weight, easy-to-edit CSS grid system.
 
 ![Scaffold Icon](Images/scaffold-icon.jpg?raw=true)
 
-Like many grid systems works 12 columns
+Scaffold is a no-frills CSS grid system for rapid responsive website development.
 
+## Intiutive
+
+Like many grid systems works with 12 columns, the needed code is sensible and familiar.
+
+Example:
 		<div class="container">
 			<div class="row">
 				<div class="col-12 center">
