@@ -8,15 +8,11 @@ $font-weight-regular: 400;
 $font-weight-strong: 700;
 $font-height: 1.5;
 
-$rich-black: #000000;
-$soft-white: #FEFDFB;
-
 $width: 96%;
 $gutter: 4%;
 $breakpoint-sm: 33.75em; // 540px
 $breakpoint-md: 45em; // 720px
 $breakpoint-lg: 60em; // 960px
-
 
 
 html,
@@ -28,17 +24,15 @@ body {
   left: 0;
   top: 0;
   font-size: 100%;
-  background-color: $soft-white;
 }
 
 * {
   font-family: $font-family;
-  color: $rich-black;
   line-height: $font-height;
 }
 
 
-// TYPOEGRAPHY
+// TYPOGRAPHY
 
 h1 {
   font-size: 2.5rem;
@@ -164,19 +158,6 @@ p {
 .col-12 {
   width: $width;
 }
-
-.col-1-sm { width:($width / 12) - ($gutter * 11 / 12); }
-.col-2-sm { width: ($width / 6) - ($gutter * 10 / 12); }
-.col-3-sm { width: ($width / 4) - ($gutter * 9 / 12); }
-.col-4-sm { width: ($width / 3) - ($gutter * 8 / 12); }
-.col-5-sm { width: ($width / (12 / 5)) - ($gutter * 7 / 12); }
-.col-6-sm { width: ($width / 2) - ($gutter * 6 / 12); }
-.col-7-sm { width: ($width / (12 / 7)) - ($gutter * 5 / 12); }
-.col-8-sm { width: ($width / (12 / 8)) - ($gutter * 4 / 12); }
-.col-9-sm { width: ($width / (12 / 9)) - ($gutter * 3 / 12); }
-.col-10-sm { width: ($width / (12 / 10)) - ($gutter * 2 / 12); }
-.col-11-sm { width: ($width / (12 / 11)) - ($gutter * 1 / 12); }
-.col-12-sm { width: $width; }
 
 @media only screen and (min-width: $breakpoint-md) {
   .col-1 { width:($width / 12) - ($gutter * 11 / 12); }

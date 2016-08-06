@@ -4,6 +4,7 @@ A light-weight, easy-to-edit CSS grid system.
 ![Scaffold Banner](Images/scaffold-banner.jpg?raw=true)
 
 Scaffold is a no-frills CSS grid for rapid responsive website development and easy customization.
+Nothing ut grid!
 
 
 ## About
@@ -17,7 +18,7 @@ Scaffold is a no-frills CSS grid for rapid responsive website development and ea
 
 ### Intuitive
 
-Like many grid systems Scaffold works with 12 columns, all the required code is sensible and familiar.
+Like many grid systems works with 12 columns, all the required code is sensible and familiar.
 
 Example:
 ```html
@@ -70,3 +71,7 @@ Scaffold is essentially nothing but grid! No surprise behaviours, or changes to 
 ## License
 
 MIT.
+
+## Acknowledgements
+
+Inspired by [Simple Grid](https://github.com/zachacole/Simple-Grid)

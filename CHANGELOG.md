@@ -3,8 +3,8 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 ### Added
-- offset col class
+- Offset col class
 
 ## BETA
 ### Changed
-- [size]-only classes added.
+- Removed background and font color changes.
