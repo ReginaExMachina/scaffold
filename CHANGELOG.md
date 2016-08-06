@@ -5,6 +5,6 @@ All notable changes to this project will be documented in this file.
 ### Added
 - Offset col class
 
-## BETA
+## v1.0.0
 ### Changed
 - Removed background and font color changes.
