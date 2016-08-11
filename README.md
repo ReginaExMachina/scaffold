@@ -15,7 +15,7 @@ Nothing but grid!
 * [Mobile-First](#mobile-first)
 * [Easy to Build With](#easy-to-build-with)
 
----
+
 
 ### Intuitive
 
@@ -54,15 +54,6 @@ Sizes notation is **sm md lg**.
 
 sm-only is visible by default. Columns are only rendered for larger screens after breakpoints.
 
-Note: Add -sm to the end of class name for columns that don't expand on mobile and small screens.
-
-Example:  
-```html
-	<div class="col-sm-6">
-		Cu qui officiis mediocrem forensibus, cum sint purto scriptorem ad, has velit mucius iuvaret ex. 
-		Ex utinam homero vituperatoribus sea.
-	</div> 
-```
 
 ### Easy to build with
 
