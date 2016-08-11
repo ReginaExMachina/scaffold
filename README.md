@@ -4,6 +4,7 @@ A light-weight, easy-to-edit CSS grid system.
 ![Scaffold Banner](Images/scaffold-banner.jpg?raw=true)
 
 Scaffold is a no-frills CSS grid for rapid responsive website development and easy customization.
+
 Nothing but grid!
 
 
