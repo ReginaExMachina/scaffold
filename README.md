@@ -15,7 +15,7 @@ Nothing but grid!
 * [Mobile-First](#mobile-first)
 * [Easy to Build With](#easy-to-build-with)
 
-
+___
 
 ### Intuitive
 
@@ -59,17 +59,18 @@ sm-only is visible by default. Columns are only rendered for larger screens afte
 
 No surprise behaviours, or changes to defaults so you can quickly start your own styles without finicking. 
 
+___
 
 ## License
 
 MIT.
 
+___
 
 ## Acknowledgements
 
 Inspired by [Simple Grid](https://github.com/zachacole/Simple-Grid)
 
-
-## End Note
+___
 
 Feedback is welcome and appreciated! Please send me your comments as an [issue] (https://github.com/ReginaExMachina/scaffold/issues).
