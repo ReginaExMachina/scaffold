@@ -72,6 +72,12 @@ No surprise behaviours, or changes to defaults so you can quickly start your own
 
 MIT.
 
+
 ## Acknowledgements
 
 Inspired by [Simple Grid](https://github.com/zachacole/Simple-Grid)
+
+
+## End Note
+
+Feedback is welcome and appreciated! Please send me your comments as an [issue] (https://github.com/ReginaExMachina/scaffold/issues).
