@@ -73,4 +73,4 @@ Inspired by [Simple Grid](https://github.com/zachacole/Simple-Grid)
 
 ___
 
-Feedback is welcome and appreciated! Please send me your comments as an [issue] (https://github.com/ReginaExMachina/scaffold/issues).
+Feedback is welcome and appreciated! Please send me your comments as an [issue](https://github.com/ReginaExMachina/scaffold/issues).
